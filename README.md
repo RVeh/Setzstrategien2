@@ -6,4 +6,6 @@ https://mybinder.org/v2/gh/RVeh/Setzstrategien2/HEAD
 Die Dateien mit Erläuterungen können auch im zugehörigen Jupyter-Book betrachtet werden. 
 Hierzu muss die Datei *SetzstrategienBooks.zip* heruntergeladen und entpackt werden, danach die Datei **index.html** auswählen. 
 
+Die Startseite des **Jupyter-Books**:
+
 ![Alt-Text](JupyterBook.png)
